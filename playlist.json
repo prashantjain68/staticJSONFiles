@@ -1,0 +1,8 @@
+{
+  "data": [
+    { "id": "a", "artist":"Radiohead", "title":"Paranoid Android" },
+    { "id": "b", "artist":"Dolly Partion", "title":"9 to 5" },
+    { "id": "c", "artist":"Beatles", "title":"Hey Jude" },
+    { "id": "d", "artist":"Nusrat", "title":"Tere Bina Nahin Lagda" }    
+  ] 
+}
